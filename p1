@@ -1,1 +1,4 @@
 document.getElementById("demo").style.display = "block";
+<script>
+document.getElementById("demo").innerHTML = "My First JavaScript";
+</script>
